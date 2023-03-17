@@ -1,7 +1,7 @@
 # Python-Wordle
 A version of Wordle that runs in the terminal. I'm new to Python so this is at a beginner level.
 
-The program randomly selects a 5 letter word from a list called words. That randomly slected word is held in the answer variable.
+The program randomly selects a 5 letter word from a list called words. That randomly selected word is held in the answer variable.
 Then, the user types in a 5 letter guess (if the user input is not 5 characters long, the user has to re-enter a word).
 Next, the program compares the user input to the answer and outputs the users guess like so...
 
